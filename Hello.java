@@ -1,4 +1,4 @@
-package com.sundar
+package com.sundar;
 
 class Hello{
 	public void sayHi(){
